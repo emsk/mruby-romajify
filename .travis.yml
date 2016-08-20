@@ -4,3 +4,4 @@ services:
   - docker
 script:
   - docker-compose run mtest
+  - docker-compose run bintest
