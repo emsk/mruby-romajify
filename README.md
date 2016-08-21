@@ -28,7 +28,7 @@ conf.gem github: 'emsk/mruby-romajify'
 Or add this line to your *mrbgem.rake*:
 
 ```ruby
-spec.add_dependency 'mruby-romajify', github: 'emsk/mruby-romajify'
+spec.add_dependency 'mruby-romajify'
 ```
 
 ## Usage
