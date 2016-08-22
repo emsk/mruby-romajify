@@ -1,6 +1,7 @@
 # mruby-romajify
 
 [![Build Status](https://travis-ci.org/emsk/mruby-romajify.svg?branch=master)](https://travis-ci.org/emsk/mruby-romajify)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Japanese romanization library for mruby
 
